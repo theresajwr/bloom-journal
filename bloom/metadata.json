@@ -1,9 +1,0 @@
-
-{
-  "name": "Bloom - Personal Journal & Habit Tracker",
-  "description": "A beautiful, holistic personal diary and habit tracker featuring mood logging, memory galleries, and streak tracking with a serene coastal aesthetic and AI companion.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
